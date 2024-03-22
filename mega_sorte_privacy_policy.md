@@ -13,22 +13,22 @@ O Aplicativo não coleta diretamente informações pessoais como nome, e-mail, t
 ## 3. Uso das Informações
 As informações coletadas pelos serviços de terceiros são utilizadas para:
 - **Fornecer e melhorar o serviço:**
-      - Exibir anúncios relevantes;
-      - Melhorar a experiência do usuário;
-      - Corrigir problemas técnicos.
+  - Exibir anúncios relevantes;
+  - Melhorar a experiência do usuário;
+  - Corrigir problemas técnicos.
  
 - **Analisar e entender o uso do Aplicativo:**
-      - Coletar dados estatísticos sobre o uso do Aplicativo;
-      - Melhorar a qualidade do Aplicativo;
-      - Identificar e corrigir problemas.
+  - Coletar dados estatísticos sobre o uso do Aplicativo;
+  - Melhorar a qualidade do Aplicativo;
+  - Identificar e corrigir problemas.
 
 ## 4. Compartilhamento de Informações
 O Desenvolvedor não compartilha suas informações pessoais com terceiros, exceto nos seguintes casos:
 - **Com empresas parceiras:**
-      - Para fornecer serviços específicos no Aplicativo;
-      - Para fins de análise e pesquisa de mercado.
+  - Para fornecer serviços específicos no Aplicativo;
+  - Para fins de análise e pesquisa de mercado.
 - **Com autoridades competentes:**
-      - Se for obrigado por lei ou ordem judicial.
+  - Se for obrigado por lei ou ordem judicial.
 
 ## 5. Segurança das Informações
 O Desenvolvedor toma medidas de segurança técnicas e administrativas para proteger suas informações contra acesso não autorizado, uso indevido, divulgação, alteração ou destruição.
